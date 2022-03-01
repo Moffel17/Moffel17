@@ -1,5 +1,6 @@
-### 基本的にファイル置き場として使ってます～
-
+<h1 align == "center"> 基本的にファイル置き場として使ってます～</h1>
+&nbsp;
+(いずれ他の用途で使うようになるかも～)
 
 <!--
 **Moffel17/Moffel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
